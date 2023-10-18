@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695860979 source:c:\users\dr.mohamed soliman\desktop\tic tac toe\main.cpp
+	<iostream>
+	<cstring>
+
